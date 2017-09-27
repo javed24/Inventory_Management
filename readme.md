@@ -1,6 +1,6 @@
 # Inventory Management Application
 
-This application works as a management system for an inventory or a shopping cart. It allows anonymous users the ability to shop from the store. It's a web based application which is built using Java Server Pages (JSP). Some features of the application are:
+This application allows anonymous users the ability to shop from an online store. Additionally, it allows the administrator to manage the inventory for the store. It's a web based application which is built using Java Server Pages (JSP). Some features of the application are:
 
 ### Inventory Manager
 
@@ -33,7 +33,7 @@ The Shopping Cart page displays detailed list of all items in the user's shoppin
 
   * The quantity of each item in each user's cart. This is not the number available in the store.
   * The price of each item
-  * The total cost of each *item x quantity* in cart
+  * The total cost of each *`item x quantity`* in cart
   * The total cost of all items in the shopping cart.
 
 The shopping cart page also allows the user to navigate to Checkout.
