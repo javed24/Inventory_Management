@@ -1,4 +1,4 @@
-# Inventory Management Application
+# Online Store and Inventory Application
 
 This application allows anonymous users the ability to shop from an online store. Additionally, it allows the administrator to manage the inventory for the store. It's a web based application which is built using Java Server Pages (JSP). Some features of the application are:
 
