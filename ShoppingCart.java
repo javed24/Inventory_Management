@@ -77,7 +77,7 @@ public class ShoppingCart extends HttpServlet {
 		        {
 					String url = "jdbc:mysql://cs3.calstatela.edu/cs3220stu38";
 					String username = "cs3220stu38";
-					String password = "";
+					String password = "xxxxxx";
 
 					c = DriverManager.getConnection( url, username, password );
 		            
